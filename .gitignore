@@ -1,0 +1,12 @@
+# 本地配置与运行时数据（含短信验证码等隐私信息，切勿提交）
+config.json
+state.json
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS 与工具
+.DS_Store
+.mnemon/

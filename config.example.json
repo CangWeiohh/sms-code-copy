@@ -1,0 +1,15 @@
+{
+  "keywords": ["验证码", "动态密码", "验证密码"],
+  "code_min_length": 4,
+  "code_max_length": 8,
+  "code_regex": "",
+  "poll_interval": 3,
+  "db_path": "~/Library/Messages/chat.db",
+  "copy_prefix": "",
+  "copy_suffix": "",
+  "notification": true,
+  "notification_sound": false,
+  "first_run_max_age_seconds": 0,
+  "log_level": "INFO",
+  "log_file": "logs/sms-code-copy.log"
+}
