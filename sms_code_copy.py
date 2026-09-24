@@ -68,7 +68,7 @@ logger = logging.getLogger(APP_NAME)
 
 DEFAULT_CONFIG: Dict[str, Any] = {
     # 命中任一关键词即尝试提取验证码（不区分大小写）
-    "keywords": ["验证码", "动态密码", "验证密码"],
+    "keywords": ["验证码", "动态密码", "验证密码", "校验码"],
     # 验证码数字位数范围（避免误抓手机号、日期等）
     "code_min_length": 4,
     "code_max_length": 8,

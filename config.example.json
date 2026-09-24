@@ -1,5 +1,5 @@
 {
-  "keywords": ["验证码", "动态密码", "验证密码"],
+  "keywords": ["验证码", "动态密码", "验证密码", "校验码"],
   "code_min_length": 4,
   "code_max_length": 8,
   "code_regex": "",
